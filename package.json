@@ -1,0 +1,28 @@
+{
+  "name": "SEF",
+  "version": "1.0.0",
+  "description": "",
+  "main": "api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maksim Kharatyan <khs.maxim@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "big.js": "^5.0.3",
+    "bitfinex-api-node": "^2.0.0-beta",
+    "commander": "^2.15.1",
+    "http-request-parser": "^1.2.0",
+    "is-plain-object": "^2.0.4",
+    "lokijs": "^1.5.3",
+    "moment": "^2.22.1",
+    "node-datetime": "^2.0.6",
+    "prompt": "^1.0.0",
+    "pusher": "^1.5.1",
+    "pusher-js": "^4.2.2",
+    "redis": "^2.8.0",
+    "redis-server": "^1.2.0",
+    "vorpal": "^1.12.0",
+    "ws": "^4.1.0"
+  }
+}
